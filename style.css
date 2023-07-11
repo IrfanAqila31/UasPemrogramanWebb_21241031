@@ -1,106 +1,650 @@
-.mac-book-air-3, .mac-book-air-3 * { box-sizing: border-box; }.mac-book-air-3 {background: #ffffff; width: 1280px; height: 3428px; position: relative; overflow: hidden;}
- ._14 {background: #efe6c8; width: 1280px; height: 832px; position: absolute; left: 0px;top: 832px; overflow: hidden;}
- .ellipse-4 {background: rgba(77, 122, 99, 0.10); border-radius: 50%; width: 99px; height: 99px; position: absolute; left: 1033px;top: 389px;}
- .ellipse-3 {background: rgba(77, 122, 99, 0.10); border-radius: 50%; width: 528px; height: 528px; position: absolute; left: 998px;top: -125px;}
- .whats-app-image-2023-07-09-at-12-42-1 {width: 578px; height: 780px; position: absolute; left: 577px;top: -330px;}
- .group-5 {position: absolute; inset: 0;}
- .rectangle-5 {border-style: solid; border-color: #4d7a63; border-width: 14px; width: 352px; height: 352px; position: absolute; left: 70px;top: 284px;}
- .mask-group {width: 393px; height: 388.7px; position: static;}
- .rectangle-4 {background: #d9d9d9; width: 393px; height: 388.7px; position: absolute; left: 124px;top: 195px;}
- .whats-app-image-2023-07-08-at-19-49-2 {width: 392.79px; height: 388.7px; position: absolute; left: 124px;top: 190px;}
- .element-11 {position: absolute; left: 435px;top: 561.98px; transform: translate(0px, -348.98px); overflow: visible;}
- .frame-6 {display: flex; flex-direction: column; gap: 50px; align-items: flex-start; justify-content: flex-start; position: absolute; left: 650px;top: calc(50% - 192.5px);}
- .about-me {color: #000000; text-align: left; font: 400 50px 'Amaranth', sans-serif; position: relative;}
- .saya-irfan-aqila-utama-saya-memiliki-minat-besar-dalam-teknologi-dan-hobi-bermain-game-saya-selalu-mengikuti-tren-dan-alat-desain-terbaru-serta-menggabungkan-pengetahuan-teknologi-dalam-setiap-proyek-dengan-kombinasi-ini-saya-memberikan-pengalaman-pengguna-yang-optimal {color: #000000; text-align: left; font: 400 20px 'Poppins', sans-serif; position: relative; width: 519px; height: 210px;}
- .frame-3 {display: flex; flex-direction: row; gap: 14px; align-items: center; justify-content: flex-start; position: absolute; left: 70px;top: 706px;}
- .follow-me {color: #000000; text-align: left; font: 400 20px 'Amaranth', sans-serif; position: relative;}
- .frame-2 {display: flex; flex-direction: row; gap: 10px; align-items: flex-end; justify-content: flex-start; flex-shrink: 0; position: relative;}
- .facebook {flex-shrink: 0; position: relative; overflow: visible;}
- .instagram {flex-shrink: 0; position: relative; overflow: visible;}
- .twitter {flex-shrink: 0; position: relative; overflow: visible;}
- .github {flex-shrink: 0; position: relative; overflow: visible;}
- ._15 {background: #f7f6fb; width: 1280px; height: 832px; position: absolute; left: 0px;top: 1664px; overflow: hidden;}
- .vector2 {position: absolute; left: 835.21px;top: 75px; transform: translate(-27.13px, 20.7px); overflow: visible;}
- .vector3 {position: absolute; left: -46px;top: 663.24px; transform: translate(46px, -404.03px); overflow: visible;}
- .ellipse-1 {background: rgba(77, 122, 99, 0.10); border-radius: 50%; width: 167px; height: 167px; position: absolute; left: 83px;top: 16px;}
- .ellipse-2 {background: rgba(77, 122, 99, 0.10); border-radius: 50%; width: 50px; height: 50px; position: absolute; left: 250px;top: 124px;}
- .frame-5 {display: flex; flex-direction: column; gap: 50px; align-items: center; justify-content: flex-start; position: absolute; left: 70px;top: 149px;}
- .group-7 {flex-shrink: 0; width: 634px; height: 84px; position: static;}
- .portofolio {color: #000000; text-align: left; font: 400 40px 'Amaranth', sans-serif; position: absolute; left: calc(50% - 84px);top: 0px;}
- .ini-adalah-project-yang-pernah-saya-bikin-yaitu-desain-aplikasi-makanan {color: #000000; text-align: left; font: 400 20px 'Amaranth', sans-serif; position: absolute; left: calc(50% - 317px);top: 60px; width: 634px;}
- .frame-4 {display: flex; flex-direction: row; gap: 85px; align-items: flex-start; justify-content: flex-start; flex-shrink: 0; position: relative;}
- .mac-book-air-1-1 {flex-shrink: 0; width: 302px; height: 400px; position: relative; box-shadow: 0px 0px 4px 10px rgba(0, 0, 0, 0.10);}
- .best-food-delivery-app-ui-design-1 {flex-shrink: 0; width: 366px; height: 400px; position: relative; box-shadow: 0px 0px 4px 11px rgba(0, 0, 0, 0.10);}
- .delicious-seafood-app-1 {flex-shrink: 0; width: 302px; height: 400px; position: relative; box-shadow: 0px 0px 4px 10px rgba(0, 0, 0, 0.10);}
- ._16 {background: #efe6c8; width: 1280px; height: 832px; position: absolute; left: 0px;top: 2496px; overflow: hidden;}
- .contact {color: #000000; text-align: left; font: 400 50px 'Amaranth', sans-serif; position: absolute; left: calc(50% - 473px);top: 111px;}
- .info {color: #000000; text-align: left; font: 400 35px 'Amaranth', sans-serif; position: absolute; left: calc(50% - -203px);top: 246px;}
- .jangan-ragu-untuk-menghubungi-saya-kapan-saja {color: #000000; text-align: left; font: 400 20px 'Amaranth', sans-serif; position: absolute; left: 167px;top: 200px;}
- .group-8 {position: absolute; inset: 0;}
- .rectangle-11 {background: #000000; border-radius: 10px; border-style: solid; border-color: #4d7a63; border-width: 2px; width: 367px; height: 52px; position: absolute; left: 215px;top: 636px;}
- .kirim {color: #f7f6fb; text-align: left; font: 400 20px 'Amaranth', sans-serif; position: absolute; left: calc(50% - 265px);top: 650px;}
- .frame-7 {display: flex; flex-direction: column; gap: 35px; align-items: flex-start; justify-content: flex-start; position: absolute; left: 167px;top: 288px;}
- .group-9 {flex-shrink: 0; width: 463px; height: 56px; position: static;}
- .nama {color: #000000; text-align: left; font: 400 20px 'Amaranth', sans-serif; position: absolute; left: 19px;top: 16px;}
- .rectangle-8 {border-radius: 15px; border-style: solid; border-color: #000000; border-width: 2px; width: 463px; height: 56px; position: absolute; left: 0px;top: 0px;}
- .group-12 {flex-shrink: 0; width: 463px; height: 56px; position: static;}
- .email {color: #000000; text-align: left; font: 400 20px 'Amaranth', sans-serif; position: absolute; left: 21px;top: 107px;}
- .group-10 {width: 463px; height: 56px; position: static;}
- .rectangle-9 {border-radius: 15px; border-style: solid; border-color: #000000; border-width: 2px; width: 463px; height: 56px; position: absolute; left: 0px;top: 91px;}
- .group-11 {flex-shrink: 0; width: 463px; height: 135px; position: static;}
- .pesan {color: #000000; text-align: left; font: 400 20px 'Amaranth', sans-serif; position: absolute; left: 21px;top: 197px;}
- .rectangle-10 {border-radius: 15px; border-style: solid; border-color: #000000; border-width: 2px; width: 463px; height: 135px; position: absolute; left: 0px;top: 182px;}
- .frame-12 {display: flex; flex-direction: column; gap: 50px; align-items: flex-end; justify-content: flex-start; position: absolute; left: 843px;top: calc(50% - 102px);}
- .frame-9 {display: flex; flex-direction: row; gap: 22px; align-items: center; justify-content: flex-start; flex-shrink: 0; position: relative;}
- .subtract {flex-shrink: 0; position: relative; overflow: visible;}
- .irfanaqila-31-gmail-com {color: #000000; text-align: left; font: 400 20px 'Amaranth', sans-serif; text-decoration: underline; position: relative;}
- .frame-10 {display: flex; flex-direction: row; gap: 29px; align-items: center; justify-content: flex-start; flex-shrink: 0; width: 272px; position: relative;}
- .vector-stroke {flex-shrink: 0; position: relative; overflow: visible;}
- ._62-877-9522-8998 {color: #000000; text-align: left; font: 400 20px 'Amaranth', sans-serif; position: relative;}
- .frame-11 {display: flex; flex-direction: row; gap: 26px; align-items: center; justify-content: flex-start; flex-shrink: 0; width: 272px; position: relative;}
- .subtract2 {flex-shrink: 0; position: relative; overflow: visible;}
- ._09-00-18-00 {color: #000000; text-align: left; font: 400 20px 'Amaranth', sans-serif; position: relative;}
- ._17 {background: #f7f6fb; width: 1280px; height: 100px; position: absolute; left: 0px;top: 3328px; overflow: hidden;}
- .copy-right-2023-irfan-aqila {color: #000000; text-align: left; font: 400 20px 'Amaranth', sans-serif; position: absolute; left: calc(50% - 123px);top: 40px;}
- ._18 {background: #f7f6fb; width: 1280px; height: 832px; position: absolute; left: 0px;top: 0px; overflow: hidden;}
- .texture-8 {background: #f6cc46; width: 447px; height: 832px; position: absolute; left: 0px;top: 0px;}
- .dokell {text-align: left; font: 400 30px 'Amaranth', sans-serif; position: absolute; left: 168px;top: 30px;}
+.mac-book-air-6,
+.mac-book-air-6 * {
+  box-sizing: border-box;
+}
+.mac-book-air-6 {
+  background: #ffffff;
+  width: 1280px;
+  height: 3428px;
+  position: relative;
+  overflow: hidden;
+}
+.mac-book-air-3 {
+  background: #ffffff;
+  width: 1280px;
+  height: 3428px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: hidden;
+}
+._14 {
+  background: #efe6c8;
+  width: 1280px;
+  height: 832px;
+  position: absolute;
+  left: 0px;
+  top: 832px;
+  overflow: hidden;
+}
+.ellipse-4 {
+  background: rgba(77, 122, 99, 0.1);
+  border-radius: 50%;
+  width: 99px;
+  height: 99px;
+  position: absolute;
+  left: 1033px;
+  top: 389px;
+}
+.ellipse-3 {
+  background: rgba(77, 122, 99, 0.1);
+  border-radius: 50%;
+  width: 528px;
+  height: 528px;
+  position: absolute;
+  left: 998px;
+  top: -125px;
+}
+.group-5 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-5 {
+  border-style: solid;
+  border-color: #4d7a63;
+  border-width: 14px;
+  width: 352px;
+  height: 352px;
+  position: absolute;
+  left: 70px;
+  top: 284px;
+}
+.mask-group {
+  width: 393px;
+  height: 388.7px;
+  position: static;
+}
+.rectangle-4 {
+  background: #d9d9d9;
+  width: 393px;
+  height: 388.7px;
+  position: absolute;
+  left: 124px;
+  top: 195px;
+}
+.whats-app-image-2023-07-08-at-19-49-2 {
+  width: 392.79px;
+  height: 388.7px;
+  position: absolute;
+  left: 124px;
+  top: 190px;
+}
+.element-11 {
+  position: absolute;
+  left: 435px;
+  top: 561.98px;
+  transform: translate(0px, -348.98px);
+  overflow: visible;
+}
+#frame-6 {
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 650px;
+  top: calc(50% - 192.5px);
+}
+.about-me {
+  color: #000000;
+  text-align: left;
+  font: 400 50px "Amaranth", sans-serif;
+  position: relative;
+}
+.saya-irfan-aqila-utama-saya-memiliki-minat-besar-dalam-teknologi-dan-hobi-bermain-game-saya-selalu-mengikuti-tren-dan-alat-desain-terbaru-serta-menggabungkan-pengetahuan-teknologi-dalam-setiap-proyek-dengan-kombinasi-ini-saya-memberikan-pengalaman-pengguna-yang-optimal {
+  color: #000000;
+  text-align: left;
+  font: 400 20px "Poppins", sans-serif;
+  position: relative;
+  width: 519px;
+  height: 210px;
+}
+.frame-3 {
+  display: flex;
+  flex-direction: row;
+  gap: 14px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  left: 70px;
+  top: 706px;
+}
+.follow-me {
+  color: #000000;
+  text-align: left;
+  font: 400 20px "Amaranth", sans-serif;
+  position: relative;
+}
+.frame-2 {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: flex-end;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.facebook {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.instagram {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.twitter {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.github {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+._15 {
+  background: #f7f6fb;
+  width: 1280px;
+  height: 832px;
+  position: absolute;
+  left: 0px;
+  top: 1664px;
+  overflow: hidden;
+}
+.vector2 {
+  position: absolute;
+  left: 835.21px;
+  top: 75px;
+  transform: translate(-27.13px, 20.7px);
+  overflow: visible;
+}
+.vector3 {
+  position: absolute;
+  left: -46px;
+  top: 663.24px;
+  transform: translate(46px, -404.03px);
+  overflow: visible;
+}
+.ellipse-1 {
+  background: rgba(77, 122, 99, 0.1);
+  border-radius: 50%;
+  width: 167px;
+  height: 167px;
+  position: absolute;
+  left: 83px;
+  top: 16px;
+}
+.ellipse-2 {
+  background: rgba(77, 122, 99, 0.1);
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  left: 250px;
+  top: 124px;
+}
+#frame-5 {
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  left: 70px;
+  top: 149px;
+}
+.group-7 {
+  flex-shrink: 0;
+  width: 634px;
+  height: 84px;
+  position: static;
+}
+.portofolio {
+  color: #000000;
+  text-align: left;
+  font: 400 40px "Amaranth", sans-serif;
+  position: absolute;
+  left: calc(50% - 84px);
+  top: 0px;
+}
+.ini-adalah-project-yang-pernah-saya-bikin-yaitu-desain-aplikasi-makanan {
+  color: #000000;
+  text-align: left;
+  font: 400 20px "Amaranth", sans-serif;
+  position: absolute;
+  left: calc(50% - 317px);
+  top: 60px;
+  width: 634px;
+}
+.frame-4 {
+  display: flex;
+  flex-direction: row;
+  gap: 85px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.mac-book-air-1-1 {
+  flex-shrink: 0;
+  width: 302px;
+  height: 400px;
+  position: relative;
+  box-shadow: 0px 0px 4px 10px rgba(0, 0, 0, 0.1);
+}
+.best-food-delivery-app-ui-design-1 {
+  flex-shrink: 0;
+  width: 366px;
+  height: 400px;
+  position: relative;
+  box-shadow: 0px 0px 4px 11px rgba(0, 0, 0, 0.1);
+}
+.delicious-seafood-app-1 {
+  flex-shrink: 0;
+  width: 302px;
+  height: 400px;
+  position: relative;
+  box-shadow: 0px 0px 4px 10px rgba(0, 0, 0, 0.1);
+}
+#_16 {
+  background: #efe6c8;
+  width: 1280px;
+  height: 832px;
+  position: absolute;
+  left: 0px;
+  top: 2496px;
+  overflow: hidden;
+}
+.contact {
+  color: #000000;
+  text-align: left;
+  font: 400 50px "Amaranth", sans-serif;
+  position: absolute;
+  left: calc(50% - 473px);
+  top: 111px;
+}
+.info {
+  color: #000000;
+  text-align: left;
+  font: 400 35px "Amaranth", sans-serif;
+  position: absolute;
+  left: calc(50% - -203px);
+  top: 246px;
+}
+.jangan-ragu-untuk-menghubungi-saya-kapan-saja {
+  color: #000000;
+  text-align: left;
+  font: 400 20px "Amaranth", sans-serif;
+  position: absolute;
+  left: 167px;
+  top: 200px;
+}
+.group-8 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-11 {
+  background: #000000;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: #4d7a63;
+  border-width: 2px;
+  width: 367px;
+  height: 52px;
+  position: absolute;
+  left: 215px;
+  top: 636px;
+}
+.kirim {
+  color: #f7f6fb;
+  text-align: left;
+  font: 400 20px "Amaranth", sans-serif;
+  position: absolute;
+  left: calc(50% - 265px);
+  top: 650px;
+}
+.frame-7 {
+  display: flex;
+  flex-direction: column;
+  gap: 35px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 167px;
+  top: 288px;
+}
+.group-9 {
+  flex-shrink: 0;
+  width: 463px;
+  height: 56px;
+  position: static;
+}
+.nama {
+  color: #000000;
+  text-align: left;
+  font: 400 20px "Amaranth", sans-serif;
+  position: absolute;
+  left: 19px;
+  top: 16px;
+}
+.rectangle-8 {
+  border-radius: 15px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 2px;
+  width: 463px;
+  height: 56px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.group-12 {
+  flex-shrink: 0;
+  width: 463px;
+  height: 56px;
+  position: static;
+}
+.email {
+  color: #000000;
+  text-align: left;
+  font: 400 20px "Amaranth", sans-serif;
+  position: absolute;
+  left: 21px;
+  top: 107px;
+}
+.group-10 {
+  width: 463px;
+  height: 56px;
+  position: static;
+}
+.rectangle-9 {
+  border-radius: 15px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 2px;
+  width: 463px;
+  height: 56px;
+  position: absolute;
+  left: 0px;
+  top: 91px;
+}
+.group-11 {
+  flex-shrink: 0;
+  width: 463px;
+  height: 135px;
+  position: static;
+}
+.pesan {
+  color: #000000;
+  text-align: left;
+  font: 400 20px "Amaranth", sans-serif;
+  position: absolute;
+  left: 21px;
+  top: 197px;
+}
+.rectangle-10 {
+  border-radius: 15px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 2px;
+  width: 463px;
+  height: 135px;
+  position: absolute;
+  left: 0px;
+  top: 182px;
+}
+.frame-12 {
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+  align-items: flex-end;
+  justify-content: flex-start;
+  position: absolute;
+  left: 843px;
+  top: calc(50% - 102px);
+}
+.frame-9 {
+  display: flex;
+  flex-direction: row;
+  gap: 22px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.subtract {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.irfanaqila-31-gmail-com {
+  color: #000000;
+  text-align: left;
+  font: 400 20px "Amaranth", sans-serif;
+  text-decoration: underline;
+  position: relative;
+}
+.frame-10 {
+  display: flex;
+  flex-direction: row;
+  gap: 29px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 272px;
+  position: relative;
+}
+.vector-stroke {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+._62-877-9522-8998 {
+  color: #000000;
+  text-align: left;
+  font: 400 20px "Amaranth", sans-serif;
+  position: relative;
+}
+.frame-11 {
+  display: flex;
+  flex-direction: row;
+  gap: 26px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 272px;
+  position: relative;
+}
+.subtract2 {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+._09-00-18-00 {
+  color: #000000;
+  text-align: left;
+  font: 400 20px "Amaranth", sans-serif;
+  position: relative;
+}
+._17 {
+  background: #f7f6fb;
+  width: 1280px;
+  height: 100px;
+  position: absolute;
+  left: 0px;
+  top: 3328px;
+  overflow: hidden;
+}
+.copy-right-2023-irfan-aqila {
+  color: #000000;
+  text-align: left;
+  font: 400 20px "Amaranth", sans-serif;
+  position: absolute;
+  left: calc(50% - 123px);
+  top: 40px;
+}
+._18 {
+  background: #f7f6fb;
+  width: 1280px;
+  height: 832px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: hidden;
+}
+.texture-8 {
+  background: #f6cc46;
+  width: 447px;
+  height: 832px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.dokell {
+  text-align: left;
+  font: 400 30px "Amaranth", sans-serif;
+  position: absolute;
+  left: 168px;
+  top: 30px;
+}
 .dokell-span {
-      color: #000000;
-      font: 400 30px 'Amaranth', sans-serif;
-    }
+  color: #000000;
+  font: 400 30px "Amaranth", sans-serif;
+}
 .dokell-span2 {
-      color: #4d7a63;
-      font: 400 30px 'Amaranth', sans-serif;
-    }
- .rectangle-7 {background: #fdba72; border-radius: 5px; width: 55px; height: 2px; position: absolute; left: 711px;top: 59px;}
- .home {color: #424242; text-align: left; font: 400 20px 'Amaranth', sans-serif; position: absolute; left: 714px;top: 36px;}
- .about-me2 {color: #424242; text-align: left; font: 400 20px 'Amaranth', sans-serif; position: absolute; left: 803px;top: 36px;}
- .portofolio2 {color: #424242; text-align: left; font: 400 20px 'Amaranth', sans-serif; position: absolute; left: 925px;top: 36px;}
- .contact2 {color: #424242; text-align: left; font: 400 20px 'Amaranth', sans-serif; position: absolute; left: 1049px;top: 36px;}
- .element-15 {width: 390px; height: 25px; position: absolute; left: 707px;top: 440px; overflow: hidden;}
- .frame-1 {display: flex; flex-direction: column; gap: 20px; align-items: flex-start; justify-content: flex-start; width: 531px; position: absolute; left: 650px;top: 246px;}
- .hi-i-m-irfan-aqila-utama {text-align: left; position: relative; width: 535px;}
+  color: #4d7a63;
+  font: 400 30px "Amaranth", sans-serif;
+}
+.rectangle-7 {
+  background: #fdba72;
+  border-radius: 5px;
+  width: 55px;
+  height: 2px;
+  position: absolute;
+  left: 711px;
+  top: 59px;
+}
+.home {
+  color: #424242;
+  text-align: left;
+  font: 400 20px "Amaranth", sans-serif;
+  position: absolute;
+  left: 714px;
+  top: 36px;
+}
+.about-me2 {
+  color: #424242;
+  text-align: left;
+  font: 400 20px "Amaranth", sans-serif;
+  position: absolute;
+  left: 803px;
+  top: 36px;
+}
+.portofolio2 {
+  color: #424242;
+  text-align: left;
+  font: 400 20px "Amaranth", sans-serif;
+  position: absolute;
+  left: 925px;
+  top: 36px;
+}
+.contact2 {
+  color: #424242;
+  text-align: left;
+  font: 400 20px "Amaranth", sans-serif;
+  position: absolute;
+  left: 1049px;
+  top: 36px;
+}
+.element-15 {
+  width: 390px;
+  height: 25px;
+  position: absolute;
+  left: 707px;
+  top: 440px;
+  overflow: hidden;
+}
+.frame-1 {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 531px;
+  position: absolute;
+  left: 650px;
+  top: 246px;
+}
+.hi-i-m-irfan-aqila-utama {
+  text-align: left;
+  position: relative;
+  width: 535px;
+}
 .hi-i-m-irfan-aqila-utama-span {
-      color: #000000;
-      font: 400 35px 'Amaranth', sans-serif;
-    }
+  color: #000000;
+  font: 400 35px "Amaranth", sans-serif;
+}
 .hi-i-m-irfan-aqila-utama-span2 {
-      color: #000000;
-      font: 400 55px 'Amaranth', sans-serif;
-    }
+  color: #000000;
+  font: 400 55px "Amaranth", sans-serif;
+}
 .hi-i-m-irfan-aqila-utama-span3 {
-      color: #4d7a63;
-      font: 400 55px 'Amaranth', sans-serif;
-    }
- .ui-ux-designer {color: #000000; text-align: left; font: 400 35px 'Poppins', sans-serif; position: relative; width: 274px;}
- .menghadirkan-desain-visual-yang-memukau-dengan-fokus-pada-pengalaman-pengguna {color: #000000; text-align: left; font: 400 20px 'Poppins', sans-serif; position: relative; width: 531px;}
- .group-1 {flex-shrink: 0; width: 121px; height: 40px; position: static;}
- .rectangle-6 {border-radius: 10px; position: absolute; left: 0px;top: 307px; overflow: visible;}
- .download-resume {color: #f7f6fb; text-align: left; font: 400 12px 'Amaranth', sans-serif; position: absolute; left: calc(50% - 253.5px);top: 319px; width: 97px;}
- .group-6 {position: absolute; inset: 0;}
- .mask-group2 {position: absolute; left: 70px;top: 272px; overflow: visible;}
- .whats-app-image-2023-07-09-at-14-17-1 {width: 398px; height: 373px; position: absolute; left: 70px;top: 123px;}
- .mask-group3 {width: 471.96px; height: 436.07px; position: static;}
- .mask-group4 {position: absolute; left: 70px;top: 272px; overflow: visible;}
- .whats-app-image-2023-07-09-at-14-17-2 {width: 689px; height: 930px; position: absolute; left: -95px;top: -263px;}
+  color: #4d7a63;
+  font: 400 55px "Amaranth", sans-serif;
+}
+.ui-ux-designer {
+  color: #000000;
+  text-align: left;
+  font: 400 35px "Poppins", sans-serif;
+  position: relative;
+  width: 274px;
+}
+.menghadirkan-desain-visual-yang-memukau-dengan-fokus-pada-pengalaman-pengguna {
+  color: #000000;
+  text-align: left;
+  font: 400 20px "Poppins", sans-serif;
+  position: relative;
+  width: 531px;
+}
+.group-1 {
+  flex-shrink: 0;
+  width: 121px;
+  height: 40px;
+  position: static;
+}
+.rectangle-6 {
+  border-radius: 10px;
+  position: absolute;
+  left: 0px;
+  top: 307px;
+  overflow: visible;
+}
+.download-resume {
+  color: #f7f6fb;
+  text-align: left;
+  font: 400 12px "Amaranth", sans-serif;
+  position: absolute;
+  left: calc(50% - 253.5px);
+  top: 319px;
+  width: 97px;
+}
+.group-6-1 {
+  width: 472px;
+  height: 586px;
+  position: absolute;
+  left: 69px;
+  top: calc(50% - 293px);
+}
